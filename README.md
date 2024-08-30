@@ -11,5 +11,5 @@ This site is designed to showcase my personal and professional journey, includin
 
 Feel free to explore and learn more about me and my work. Thank you for visiting!
 
-🚀 [Visit My Portfolio](https://tushar151.github.io)
+🚀 [Visit My Portfolio](https://tushar151.github.io/Portfolio/)
 
