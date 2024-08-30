@@ -1,3 +1,15 @@
-Welcome to my portfolio website! 
+# My Portfolio Website
 
-This website showcases my personal and professional information, including my skills, experience, and educational background. It also features a downloadable resume. Explore to learn more about me and my work.
+Welcome to my portfolio website! 🌟
+
+This site is designed to showcase my personal and professional journey, including:
+
+- **Skills**: Discover the various technical skills I've acquired.
+- **Experience**: Learn about my professional background and roles.
+- **Education**: Explore my academic qualifications.
+- **Resume**: Download my resume to see a detailed overview of my career.
+
+Feel free to explore and learn more about me and my work. Thank you for visiting!
+
+🚀 [Visit My Portfolio](https://tushar151.github.io)
+
