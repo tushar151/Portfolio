@@ -1,4 +1,4 @@
-# <span style="color: #ff6347;">My Portfolio Website</span>
+<span style="color: #ff6347;">My Portfolio Website</span>
 
 Welcome to my portfolio website! 🌟
 
