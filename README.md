@@ -9,4 +9,4 @@ Welcome to my personal portfolio! This site showcases my professional journey, i
 
 Feel free to explore and learn more about me and my work. Thank you for visiting!
 
-🚀 [Visit My Portfolio](https://tushar151.github.io)
+🚀 [Visit My Portfolio](https://tushar151.github.io/Portfolio)
