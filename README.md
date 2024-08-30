@@ -1,4 +1,4 @@
-# My Portfolio Website
+# <span style="color: #ff6347;">My Portfolio Website</span>
 
 Welcome to my portfolio website! 🌟
 
@@ -10,6 +10,8 @@ This site is designed to showcase my personal and professional journey, includin
 - **Resume**: Download my resume to see a detailed overview of my career.
 
 Feel free to explore and learn more about me and my work. Thank you for visiting!
+
+
 
 🚀 [Visit My Portfolio](https://tushar151.github.io/Portfolio/)
 
